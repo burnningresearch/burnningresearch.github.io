@@ -1,3 +1,25 @@
-theme: jekyll-theme-minimal
-title: Prof. Daoguan Ning's homepage
-description: Bookmark this to keep an eye on my project updates!
+project:
+  type: website
+
+website:
+  title: "Combustion and Energy Systems Lab"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - research.qmd
+
+      - publications.qmd
+
+      - teaching.qmd
+
+      - blog/index.qmd
+
+      - wiki/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
