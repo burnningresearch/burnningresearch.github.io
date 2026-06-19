@@ -1,0 +1,25 @@
+---
+title: Home
+---
+
+# Welcome
+
+## Combustion and Energy Systems Laboratory
+
+Research Areas
+
+- Metal Fuel Combustion
+- Sustainable Energy
+- Propulsion
+- Critical Material Recycling
+
+![](images/lab.jpg)
+
+## News
+
+- New paper accepted in Combustion and Flame
+- New PhD student joined
+
+## Contact
+
+Email: your@email.com
