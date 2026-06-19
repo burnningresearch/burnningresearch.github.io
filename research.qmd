@@ -1,18 +1,17 @@
 ---
 title: Research
 ---
-
-# Research
-
-## Metal Fuel Combustion
-
-We study ignition and combustion dynamics of metal particles.
-
-## Optical Diagnostics
+## Deveolpment and Application of 
 
 - Two-color pyrometry
 - Diffuse backlight imaging
 
-## Recycling
+## Clean Energy
+
+We study ignition and combustion dynamics of metal particles.
+
+## Advanced Propulsion
+
+## Critical Material Recycling
 
 Recovery and reuse of critical materials.
