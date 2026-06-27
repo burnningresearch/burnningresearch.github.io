@@ -1,0 +1,127 @@
+---
+title: "Contact – LEMA Lab"
+description: "Contact and recruiting information for LEMA Lab at the National University of Singapore."
+page-layout: article
+title-block-banner: false
+css: style.css
+format:
+  html:
+    grid:
+      body-width: 1000px
+      margin-width: 300px
+---
+
+## Open Positions
+
+::: {.box}
+Due to the high volume of inquiries, I may not be able to respond to every
+message. If you believe you are a strong fit and do not receive a reply
+within one week, you may follow up by email using the subject line
+"NUS-LEMA Application | [Expected Role] | [Current Affiliation]".
+
+Our lab has openings for 3–6 PhD students, 1 postdoc fellow, and several
+visiting students in 2027. Please submit the application form first,
+including a CV, research interests, and links to representative work.
+
+[Application Form](https://forms.office.com/r/xrW0nmy1Gi?origin=lprLink){.btn-app}
+:::
+
+::: {.box-grid-3}
+
+::: {.box}
+### PhD Students
+
+For PhD applicants, please also follow the
+[NUS CS PhD application process](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/#deadline)
+by June 15 (spring intake) or Dec 15 (fall intake).
+:::
+
+::: {.box}
+### Postdoc Researchers
+
+For postdoc applicants, please include a CV, representative papers,
+reference contacts, and possible project directions.
+:::
+
+::: {.box}
+### Research Interns
+
+For internship or visiting applicants, please include an expected timeline,
+funding status, and research interests.
+:::
+
+:::
+
+## Why Join Us
+
+::: {.box-grid}
+
+::: {.box}
+### Lab Research
+
+Our recent work has been recognized with Best Paper awards at ICLR, CVPR,
+and RSS workshops, Oral at ICML, and invited talks at UC Berkeley, OpenAI,
+NVIDIA, etc.
+:::
+
+::: {.box}
+### Global Collaboration
+
+Our lab builds on broad collaborations across NUS and with researchers at
+leading institutions worldwide, including Stanford, Harvard, ETHZ, EPFL,
+MPI, Tsinghua, ISTA, Oxford, and beyond.
+:::
+
+::: {.box}
+### NUS AI Research
+
+NUS is consistently recognized among the leading computer science programs,
+ranked globally at #4 by QS, #5 by US News, and #13 by Times in recent
+subject rankings.
+:::
+
+::: {.box}
+### Singapore AI Hub
+
+Singapore is emerging as a global AI hub, with growing activity from
+Google DeepMind, Microsoft Research, and other leading industry labs,
+creating strong opportunities for research careers.
+:::
+
+:::
+
+## Who We Look For
+
+::: {.box-grid}
+
+::: {.box}
+### Minimum Qualifications
+
+- Uncompromising intellectual honesty and research integrity.
+- Strong background in machine learning, robot learning, computer vision,
+  robotics, physics, or related areas.
+- Good written and verbal communication skills, with the ability to
+  explain ideas clearly and collaborate effectively.
+:::
+
+::: {.box}
+### Preferred Qualifications
+
+- Intrinsic curiosity and genuine interest in fundamental research.
+- Independent thinking, ownership, and a demonstrated record of initiative
+  or exceptional achievement.
+- Evidence of substantial prior research experience, such as high-quality
+  publications or submissions in relevant venues.
+:::
+
+:::
+
+::: {.box .contact-box}
+**Email:** liuyj [at] comp.nus.edu.sg
+
+**Address:** COM 1, 13 Computing Drive, Singapore 117417
+:::
+
+::: {.text-center .text-muted}
+© 2026 LEMA Lab. All rights reserved.
+:::

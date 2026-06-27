@@ -1,0 +1,401 @@
+/* ==========================================================================
+   style.css — Personal research website theme
+   Palette: "Ember & Slate" — warm ember accent + deep slate text,
+   loosely inspired by combustion (ember orange) and a calm academic base.
+
+   To use other palettes, just swap the values inside :root below.
+   Two alternates are provided as comments at the bottom of this block.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  /* --- Color tokens ------------------------------------------------- */
+  --color-bg: #faf9f6;          /* page background, warm off-white */
+  --color-surface: #ffffff;     /* cards / boxes */
+  --color-text: #1f2328;        /* primary text, near-black slate */
+  --color-text-muted: #5b6168;  /* secondary text */
+  --color-accent: #c1502e;      /* ember orange — links, buttons, highlights */
+  --color-accent-dark: #9c3f22; /* hover state for accent */
+  --color-secondary: #1d3557;   /* deep slate blue — headings, nav */
+  --color-border: #e8e6e1;
+
+  /* --- ALTERNATE PALETTE 1: "Magnet Blue" -----------------------------
+  --color-bg: #f5f6f8;
+  --color-surface: #ffffff;
+  --color-text: #1a1d29;
+  --color-text-muted: #5c6370;
+  --color-accent: #2b4c7e;
+  --color-accent-dark: #1e3556;
+  --color-secondary: #b87333;
+  --color-border: #e2e4e9;
+  ----------------------------------------------------------------------- */
+
+  /* --- ALTERNATE PALETTE 2: "Graphite & Citrine" (dark) ---------------
+  --color-bg: #111315;
+  --color-surface: #1b1e21;
+  --color-text: #e8e6e1;
+  --color-text-muted: #9aa0a6;
+  --color-accent: #f2b134;
+  --color-accent-dark: #cf9626;
+  --color-secondary: #f2b134;
+  --color-border: #2a2d31;
+  ----------------------------------------------------------------------- */
+
+  /* --- Type, radius, shadow ------------------------------------------ */
+  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --radius: 10px;
+  --shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  color: var(--color-secondary);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2.1rem; 
+     margin-top: 0rem;}
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-border);
+}
+h3 { font-size: 1.1rem; }
+
+p, li {
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+a:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+::selection {
+  background-color: var(--color-accent);
+  color: #fff;
+}
+
+/* ==========================================================================
+   Layout
+   ========================================================================== */
+
+/* Page width is controlled via the format.html.grid YAML option
+   (body-width / margin-width) in each .qmd's front matter, or in
+   _quarto.yml at the project level — NOT here. Overriding
+   .page-columns / grid-template-columns directly in CSS breaks
+   Quarto's TOC ("On this page") column placement. */
+
+/* ==========================================================================
+   Navigation (if using a Quarto site navbar)
+   ========================================================================== */
+
+.navbar {
+  background-color: var(--color-surface) !important;
+  border-bottom: 1px solid var(--color-border);
+}
+.navbar-title,
+.navbar-brand {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--color-secondary) !important;
+}
+.navbar-nav .nav-link {
+  color: var(--color-text-muted) !important;
+  font-weight: 500;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--color-accent) !important;
+}
+
+/* ==========================================================================
+   Cards / boxed sections
+   ========================================================================== */
+
+.box {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 0.0rem;
+  color: var(--color-text-muted);
+}
+.box h3 {
+  color: var(--color-secondary);
+  font-size: 1.05rem;
+  margin-top: 0;
+  margin-bottom: 0.0rem;
+}
+.contact-box p {
+  margin: 0.25rem 0;
+}
+
+.box-grid,
+.box-grid-3 {
+  display: grid;
+  gap: 1.25rem;
+}
+.box-grid { grid-template-columns: repeat(2, 1fr); }
+.box-grid-3 { grid-template-columns: repeat(3, 1fr); }
+.box-grid .box,
+.box-grid-3 .box { margin-bottom: 0; }
+
+@media (max-width: 768px) {
+  .box-grid,
+  .box-grid-3 { grid-template-columns: 1fr; }
+}
+
+/* ==========================================================================
+   Buttons
+   ========================================================================== */
+
+.btn-app {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.6rem 1.5rem;
+  background-color: var(--color-accent);
+  color: #fff !important;
+  text-decoration: none !important;
+  border: none;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family: var(--font-body);
+  transition: background-color 0.2s ease;
+}
+.btn-app:hover {
+  background-color: var(--color-accent-dark);
+}
+
+.btn-app-outline {
+  display: inline-block;
+  margin-top: .5rem;
+  padding: 0.55rem 1.4rem;
+  background-color: transparent;
+  color: var(--color-secondary) !important;
+  border: 1.5px solid var(--color-secondary);
+  border-radius: 8px;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+.btn-app-outline:hover {
+  background-color: var(--color-secondary);
+  color: #fff !important;
+}
+
+/* ==========================================================================
+   Hero (landing page intro)
+   ========================================================================== */
+
+.hero {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 3rem 2.75rem;
+  margin-bottom: 0rem;
+}
+.hero h1 {
+  font-size: 2.4rem;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+.hero .tagline {
+  color: var(--color-accent);
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin: 0 0 1.25rem 0;
+}
+.hero .hero-note {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  border-left: 3px solid var(--color-border);
+  padding-left: 1rem;
+  margin-top: 1.5rem;
+}
+
+/* ==========================================================================
+   Publications / pubs list (common on research sites)
+   ========================================================================== */
+
+.pub-entry h4 {
+  font-family: var(--font-display);
+  color: var(--color-secondary);
+  font-size: 1.05rem;
+  margin: 0 0 0.4rem 0;
+}
+.pub-entry p {
+  margin: 0.2rem 0;
+}
+.pub-entry .pub-authors {
+  color: var(--color-text-muted);
+  font-size: 0.92rem;
+}
+.pub-entry .pub-venue {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+.pub-entry .pub-venue strong {
+  color: var(--color-text);
+  font-style: italic;
+}
+
+/* --- Publications: scrollable list ---------------------------------- */
+
+.pub-list-wrap {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+.pub-list-wrap::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0.6rem;
+  bottom: 0;
+  height: 36px;
+  background: linear-gradient(to bottom, transparent, var(--color-bg));
+  pointer-events: none;
+  border-radius: 0 0 var(--radius) var(--radius);
+}
+
+.pub-list {
+  max-height: 480px;
+  overflow-y: auto;
+  padding-right: 0.6rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+.pub-list::-webkit-scrollbar {
+  width: 8px;
+}
+.pub-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+.pub-list::-webkit-scrollbar-thumb {
+  background-color: rgba(91, 97, 104, 0.45); /* ~45% var(--color-text-muted); static value for broad browser support */
+  border-radius: 4px;
+}
+.pub-list:hover::-webkit-scrollbar-thumb,
+.pub-list:focus-within::-webkit-scrollbar-thumb {
+  background-color: var(--color-secondary);
+}
+
+.pub-list .box.pub-entry {
+  margin-bottom: 0.75rem;
+}
+.pub-list .box.pub-entry:last-child {
+  margin-bottom: 0;
+}
+
+.pub-entry {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+.pub-entry .pub-main {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.pub-entry .pub-links {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.pub-link {
+  display: block;
+  width: 5.5rem;
+  padding: 0.32rem 0;
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-align: center;
+  border-radius: 999px;
+  background-color: #f8eae6; /* ~12% var(--color-accent) tint over white; static value for broad browser support */
+  color: var(--color-accent) !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  border: 1px solid var(--color-accent);
+  box-sizing: border-box;
+}
+.pub-link:hover {
+  background-color: var(--color-accent);
+  color: #fff !important;
+}
+
+@media (max-width: 768px) {
+  .pub-entry {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+  .pub-entry .pub-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+/* ==========================================================================
+   Member lists (Team / Current / Alumni)
+   ========================================================================== */
+
+.list-clean ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.list-clean li {
+  padding: 0.55rem 0;
+  border-bottom: 1px dashed var(--color-border);
+}
+.list-clean li:last-child { border-bottom: none; }
+.list-clean .member-role {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+/* ==========================================================================
+   Misc text utilities
+   ========================================================================== */
+
+.text-center { text-align: center; }
+.text-muted { color: var(--color-text-muted); }
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+footer,
+.page-footer {
+  border-top: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+  padding-top: 1.5rem;
+  margin-top: 3rem;
+}

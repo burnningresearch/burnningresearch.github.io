@@ -1,17 +1,198 @@
 ---
-title: Research
+title: "Home – LEMA Lab"
+description: "Learning for Embodied Minds and Agents at the National University of Singapore."
+page-layout: article
+title-block-banner: false
+css: style.css
+format:
+  html:
+    grid:
+      body-width: 1000px
+      margin-width: 300px
 ---
-## Deveolpment and Application of 
 
-- Two-color pyrometry
-- Diffuse backlight imaging
+::: {.hero}
+# LEMA Lab
 
-## Clean Energy
+::: {.tagline}
+Discover the Principles of Intelligence; Embrace the Joy of Research.
+:::
 
-We study ignition and combustion dynamics of metal particles.
+Welcome to the LEMA Lab in the Department of Computer Science at the
+National University of Singapore. We are a collaborative group of
+researchers working to build intelligent agents that can perceive,
+reason, and act in the physical world. Our research bridges machine
+learning, computer vision, and robotics, with a focus on learning agents
+that can generalize from limited data, adapt during deployment, remember
+what matters, and improve through experience.
 
-## Advanced Propulsion
+::: {.hero-note}
+Pronounced "lemma" in English, our lab is committed to discovering simple
+and scalable principles behind embodied intelligence, with as little
+manual effort as possible. Read as "乐马" in Mandarin, our lab was born in
+the Year of the Horse (马), dedicated to fostering the joy (乐) of
+learning, exploration, and growth in every lab member.
+:::
+:::
 
-## Critical Material Recycling
+## Open Positions
 
-Recovery and reuse of critical materials.
+::: {.box}
+We welcome PhD students, postdoctoral researchers, and visiting students
+interested in building the next generation of embodied agents, with
+research directions including robot learning, world models, multimodal
+agents, data curation, and recursive self-improvement.
+
+[Join Us — 3 PhD Openings, Apply by Dec 15](https://lema-nus.github.io/contact.html#openings){.btn-app}
+:::
+
+## Research Directions
+
+We study how embodied agents can learn from interaction, reason about the
+physical world, and improve autonomously.
+
+::: {.box-grid-3}
+
+::: {.box}
+### Adaptive Robot Policies
+
+How can robot policies adapt dynamically at inference time to handle new
+tasks, environments, and embodiment variations?
+:::
+
+::: {.box}
+### Interactive World Models
+
+How can structured world models help agents anticipate spatial, temporal,
+and physical interactions before acting?
+:::
+
+::: {.box}
+### Proactive Self-Improvement
+
+How can agents verify and learn from their own predictions to improve
+continually with minimal human supervision?
+:::
+
+:::
+
+## Selected Publications
+
+Below is a representative selection of recent publications. For the full
+publication list, please refer to the
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Xi-B5WIAAAAJ)
+profile.
+
+::: {.box .pub-entry}
+#### World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry
+
+::: {.pub-authors}
+Yuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang,
+Kevin Murphy, Chelsea Finn, Yilun Du
+:::
+
+::: {.pub-venue}
+Preprint, 2026 · Best Paper, ICLR World Model Workshop
+:::
+
+[Paper](https://arxiv.org/abs/2604.01985){.pub-link} [Project](https://world-action-verifier.github.io/){.pub-link} [Code](https://github.com/world-action-verifier/wav_robot){.pub-link}
+:::
+
+::: {.box .pub-entry}
+#### Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+
+::: {.pub-authors}
+Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini,
+Chelsea Finn, Marco Pavone
+:::
+
+::: {.pub-venue}
+ECCV, 2026 · Best Paper Finalist, CVPR Scalable Robot Learning Workshop
+:::
+
+[Paper](https://arxiv.org/abs/2602.12281){.pub-link} [Project](https://cover-vla.github.io){.pub-link} [Code](https://github.com/cover-vla/cover-vla){.pub-link}
+:::
+
+::: {.box .pub-entry}
+#### RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
+
+::: {.pub-authors}
+Yinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang,
+Chelsea Finn, Nima Fazeli, Joyce Chai
+:::
+
+::: {.pub-venue}
+International Conference on Machine Learning (ICML), 2026 · Oral (0.7%)
+:::
+
+[Paper](https://arxiv.org/abs/2603.04639){.pub-link} [Project](https://robomme.github.io/){.pub-link} [Code](https://github.com/RoboMME/robomme_benchmark){.pub-link}
+:::
+
+::: {.box .pub-entry}
+#### Learning Long-Context Diffusion Policies via Past-Token Prediction
+
+::: {.pub-authors}
+Marcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn
+:::
+
+::: {.pub-venue}
+Conference on Robot Learning (CoRL), 2025 · Best Paper, RSS Robot
+Representation Workshop
+:::
+
+[Paper](https://arxiv.org/abs/2505.09561){.pub-link} [Project](https://long-context-dp.github.io/){.pub-link} [Code](https://github.com/long-context-dp/ldp){.pub-link}
+:::
+
+::: {.box .pub-entry}
+#### Demo-SCORE: Curating Demonstrations using Online Experience
+
+::: {.pub-authors}
+Annie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn
+:::
+
+::: {.pub-venue}
+Robotics: Science and Systems (RSS), 2025
+:::
+
+[Paper](https://arxiv.org/abs/2503.03707){.pub-link} [Project](https://anniesch.github.io/demo-score/){.pub-link} [Code](https://github.com/alessing/demo-score){.pub-link}
+:::
+
+::: {.box .pub-entry}
+#### Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling
+
+::: {.pub-authors}
+Yuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn
+:::
+
+::: {.pub-venue}
+International Conference on Learning Representations (ICLR), 2025
+:::
+
+[Paper](https://arxiv.org/abs/2408.17355){.pub-link} [Project](https://bid-robot.github.io/){.pub-link} [Code](https://github.com/YuejiangLIU/bid_diffusion){.pub-link}
+:::
+
+## Team Members
+
+::: {.box}
+**Principal Investigator**
+
+#### [Yuejiang Liu](https://yuejiangliu.github.io/)
+
+Assistant Professor, NUS · Presidential Young Professorship
+
+Department of Computer Science
+
+[Scholar](https://scholar.google.com/citations?hl=en&user=Xi-B5WIAAAAJ){.pub-link} [Twitter](https://x.com/liu_yuejiang){.pub-link} [RedNote](https://www.xiaohongshu.com/user/profile/5f091f240000000001006b82){.pub-link}
+:::
+
+::: {.box-grid}
+
+
+
+
+
+:::
+
+::: {.text-center .text-muted}
+© 2026 EMC Lab. All rights reserved.
+:::

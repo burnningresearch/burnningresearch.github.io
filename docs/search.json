@@ -2,9 +2,9 @@
   {
     "objectID": "Home.html",
     "href": "Home.html",
-    "title": "Home",
+    "title": "EMC2 Laboratory",
     "section": "",
-    "text": "Research Areas\n\nMetal Fuel Combustion\nSustainable Energy\nPropulsion\nCritical Material Recycling\n\n\n\n\n\n\nNew paper accepted in Combustion and Flame\nNew PhD student joined\n\n\n\n\nEmail: your@email.com"
+    "text": "Energy Materials Conversion and Combustion"
   },
   {
     "objectID": "Home.html#combustion-and-energy-systems-laboratory",
@@ -23,8 +23,337 @@
   {
     "objectID": "Home.html#contact",
     "href": "Home.html#contact",
+    "title": "EMC2 Laboratory",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: dning@charlotte.edu\nAddress: COM 1, 13 Computing Drive, Singapore 117417"
+  },
+  {
+    "objectID": "People.html",
+    "href": "People.html",
+    "title": "People",
+    "section": "",
+    "text": "Assistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Home – LEMA Lab",
+    "section": "",
+    "text": "Discover the Principles of Intelligence; Embrace the Joy of Research.\n\nWelcome to the LEMA Lab in the Department of Computer Science at the National University of Singapore. We are a collaborative group of researchers working to build intelligent agents that can perceive, reason, and act in the physical world. Our research bridges machine learning, computer vision, and robotics, with a focus on learning agents that can generalize from limited data, adapt during deployment, remember what matters, and improve through experience.\n\nPronounced “lemma” in English, our lab is committed to discovering simple and scalable principles behind embodied intelligence, with as little manual effort as possible. Read as “乐马” in Mandarin, our lab was born in the Year of the Horse (马), dedicated to fostering the joy (乐) of learning, exploration, and growth in every lab member."
+  },
+  {
+    "objectID": "Research.html#deveolpment-and-application-of",
+    "href": "Research.html#deveolpment-and-application-of",
+    "title": "Research",
+    "section": "",
+    "text": "Two-color pyrometry\nDiffuse backlight imaging"
+  },
+  {
+    "objectID": "Research.html#clean-energy",
+    "href": "Research.html#clean-energy",
+    "title": "Research",
+    "section": "Clean Energy",
+    "text": "Clean Energy\nWe study ignition and combustion dynamics of metal particles."
+  },
+  {
+    "objectID": "Research.html#advanced-propulsion",
+    "href": "Research.html#advanced-propulsion",
+    "title": "Research",
+    "section": "Advanced Propulsion",
+    "text": "Advanced Propulsion"
+  },
+  {
+    "objectID": "Research.html#critical-material-recycling",
+    "href": "Research.html#critical-material-recycling",
+    "title": "Research",
+    "section": "Critical Material Recycling",
+    "text": "Critical Material Recycling\nRecovery and reuse of critical materials."
+  },
+  {
+    "objectID": "News.html",
+    "href": "News.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Home.html#energy-material-conversion-combustion-laboratory",
+    "href": "Home.html#energy-material-conversion-combustion-laboratory",
+    "title": "Home",
+    "section": "",
+    "text": "Research Areas\n\nMetal Fuel Combustion\nSustainable Energy\nPropulsion\nCritical Material Recycling"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Research Areas\n\nMetal Fuel Combustion\nSustainable Energy\nPropulsion\nCritical Material Recycling\n\n\n\n\n\n\nNew paper accepted in Combustion and Flame\nNew PhD student joined\n\n\n\n\nEmail: your@email.com"
+  },
+  {
+    "objectID": "index.html#combustion-and-energy-systems-laboratory",
+    "href": "index.html#combustion-and-energy-systems-laboratory",
+    "title": "Home",
+    "section": "",
+    "text": "Research Areas\n\nMetal Fuel Combustion\nSustainable Energy\nPropulsion\nCritical Material Recycling"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Home",
+    "section": "",
+    "text": "New paper accepted in Combustion and Flame\nNew PhD student joined"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
     "title": "Home",
     "section": "",
     "text": "Email: your@email.com"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\n\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
+  },
+  {
+    "objectID": "Publications.html#journal-articles",
+    "href": "Publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n2026\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\n2025\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code"
+  },
+  {
+    "objectID": "Openning.html",
+    "href": "Openning.html",
+    "title": "Contact – LEMA Lab",
+    "section": "",
+    "text": "Due to the high volume of inquiries, I may not be able to respond to every message. If you believe you are a strong fit and do not receive a reply within one week, you may follow up by email using the subject line “NUS-LEMA Application | [Expected Role] | [Current Affiliation]”.\nOur lab has openings for 3–6 PhD students, 1 postdoc fellow, and several visiting students in 2027. Please submit the application form first, including a CV, research interests, and links to representative work.\nApplication Form\n\n\n\n\nFor PhD applicants, please also follow the NUS CS PhD application process by June 15 (spring intake) or Dec 15 (fall intake).\n\n\n\nFor postdoc applicants, please include a CV, representative papers, reference contacts, and possible project directions.\n\n\n\nFor internship or visiting applicants, please include an expected timeline, funding status, and research interests."
+  },
+  {
+    "objectID": "Openning.html#open-positions",
+    "href": "Openning.html#open-positions",
+    "title": "Contact – LEMA Lab",
+    "section": "",
+    "text": "Due to the high volume of inquiries, I may not be able to respond to every message. If you believe you are a strong fit and do not receive a reply within one week, you may follow up by email using the subject line “NUS-LEMA Application | [Expected Role] | [Current Affiliation]”.\nOur lab has openings for 3–6 PhD students, 1 postdoc fellow, and several visiting students in 2027. Please submit the application form first, including a CV, research interests, and links to representative work.\nApplication Form\n\n\n\n\nFor PhD applicants, please also follow the NUS CS PhD application process by June 15 (spring intake) or Dec 15 (fall intake).\n\n\n\nFor postdoc applicants, please include a CV, representative papers, reference contacts, and possible project directions.\n\n\n\nFor internship or visiting applicants, please include an expected timeline, funding status, and research interests."
+  },
+  {
+    "objectID": "Openning.html#why-join-us",
+    "href": "Openning.html#why-join-us",
+    "title": "Contact – LEMA Lab",
+    "section": "Why Join Us",
+    "text": "Why Join Us\n\n\nLab Research\nOur recent work has been recognized with Best Paper awards at ICLR, CVPR, and RSS workshops, Oral at ICML, and invited talks at UC Berkeley, OpenAI, NVIDIA, etc.\n\n\nGlobal Collaboration\nOur lab builds on broad collaborations across NUS and with researchers at leading institutions worldwide, including Stanford, Harvard, ETHZ, EPFL, MPI, Tsinghua, ISTA, Oxford, and beyond.\n\n\nNUS AI Research\nNUS is consistently recognized among the leading computer science programs, ranked globally at #4 by QS, #5 by US News, and #13 by Times in recent subject rankings.\n\n\nSingapore AI Hub\nSingapore is emerging as a global AI hub, with growing activity from Google DeepMind, Microsoft Research, and other leading industry labs, creating strong opportunities for research careers."
+  },
+  {
+    "objectID": "Openning.html#who-we-look-for",
+    "href": "Openning.html#who-we-look-for",
+    "title": "Contact – LEMA Lab",
+    "section": "Who We Look For",
+    "text": "Who We Look For\n\n\nMinimum Qualifications\n\nUncompromising intellectual honesty and research integrity.\nStrong background in machine learning, robot learning, computer vision, robotics, physics, or related areas.\nGood written and verbal communication skills, with the ability to explain ideas clearly and collaborate effectively.\n\n\n\nPreferred Qualifications\n\nIntrinsic curiosity and genuine interest in fundamental research.\nIndependent thinking, ownership, and a demonstrated record of initiative or exceptional achievement.\nEvidence of substantial prior research experience, such as high-quality publications or submissions in relevant venues.\n\n\n\n\nEmail: liuyj [at] comp.nus.edu.sg\nAddress: COM 1, 13 Computing Drive, Singapore 117417\n\n\n© 2026 LEMA Lab. All rights reserved."
+  },
+  {
+    "objectID": "Publications.html#open-positions",
+    "href": "Publications.html#open-positions",
+    "title": "Home – LEMA Lab",
+    "section": "Open Positions",
+    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
+  },
+  {
+    "objectID": "Publications.html#why-join-us",
+    "href": "Publications.html#why-join-us",
+    "title": "Contact – LEMA Lab",
+    "section": "",
+    "text": "Our recent work has been recognized with Best Paper awards at ICLR, CVPR, and RSS workshops, Oral at ICML, and invited talks at UC Berkeley, OpenAI, NVIDIA, etc.\n\n\n\nOur lab builds on broad collaborations across NUS and with researchers at leading institutions worldwide, including Stanford, Harvard, ETHZ, EPFL, MPI, Tsinghua, ISTA, Oxford, and beyond.\n\n\n\nNUS is consistently recognized among the leading computer science programs, ranked globally at #4 by QS, #5 by US News, and #13 by Times in recent subject rankings.\n\n\n\nSingapore is emerging as a global AI hub, with growing activity from Google DeepMind, Microsoft Research, and other leading industry labs, creating strong opportunities for research careers."
+  },
+  {
+    "objectID": "Publications.html#who-we-look-for",
+    "href": "Publications.html#who-we-look-for",
+    "title": "Contact – LEMA Lab",
+    "section": "",
+    "text": "Uncompromising intellectual honesty and research integrity.\nStrong background in machine learning, robot learning, computer vision, robotics, physics, or related areas.\nGood written and verbal communication skills, with the ability to explain ideas clearly and collaborate effectively.\n\n\n\n\n\nIntrinsic curiosity and genuine interest in fundamental research.\nIndependent thinking, ownership, and a demonstrated record of initiative or exceptional achievement.\nEvidence of substantial prior research experience, such as high-quality publications or submissions in relevant venues.\n\n\nEmail: liuyj [at] comp.nus.edu.sg\nAddress: COM 1, 13 Computing Drive, Singapore 117417\n\n© 2026 LEMA Lab. All rights reserved."
+  },
+  {
+    "objectID": "Home.html#open-positions",
+    "href": "Home.html#open-positions",
+    "title": "EMC2 Laboratory",
+    "section": "Open Positions",
+    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
+  },
+  {
+    "objectID": "Home.html#research-directions",
+    "href": "Home.html#research-directions",
+    "title": "EMC2 Laboratory",
+    "section": "Research Directions",
+    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "Home.html#selected-publications",
+    "href": "Home.html#selected-publications",
+    "title": "EMC2 Laboratory",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
+  },
+  {
+    "objectID": "Home.html#team-members",
+    "href": "Home.html#team-members",
+    "title": "EMC2 Laboratory",
+    "section": "Team Members",
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\n\n\n© 2026 EMC Lab. All rights reserved."
+  },
+  {
+    "objectID": "Home.html#recent-publications",
+    "href": "Home.html#recent-publications",
+    "title": "Home – LEMA Lab",
+    "section": "Recent Publications",
+    "text": "Recent Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\nWorld Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry\n\nYuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang, Kevin Murphy, Chelsea Finn, Yilun Du\n\n\nPreprint, 2026 · Best Paper, ICLR World Model Workshop\n\nPaper Project Code\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026 · Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\nPaper Project Code\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026 · Oral (0.7%)\n\nPaper Project Code\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025 · Best Paper, RSS Robot Representation Workshop\n\nPaper Project Code\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\nPaper Project Code\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\nPaper Project Code"
+  },
+  {
+    "objectID": "Publications.html#research-directions",
+    "href": "Publications.html#research-directions",
+    "title": "Home – LEMA Lab",
+    "section": "Research Directions",
+    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "Publications.html#selected-publications",
+    "href": "Publications.html#selected-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\n\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
+  },
+  {
+    "objectID": "Publications.html#team-members",
+    "href": "Publications.html#team-members",
+    "title": "Publications",
+    "section": "Team Members",
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\nCurrent\n\n\nProspective members · NUS\nJacky Kwok · PhD, Stanford\nXilun Zhang · PhD, Stanford\nYinpei Dai · PhD, U Michigan\nAlec Lessing · MSc, Stanford\nYi Du · MSc, Stanford\nEric Liang · MSc, Stanford\n\n\n\n\nAlumni\n\n\nXilun Zhang · MSc, CMU → PhD, Stanford\nJubayer Hamid · BSc, Stanford → PhD, Stanford\nFrano Rajič · MSc, EPFL → PhD, ETH\nQi Yan · MSc, EPFL → PhD, UBC\nRiccardo Cadei · MSc, EPFL → PhD, ISTA\nSherwin Bahmani · MSc, TUD → PhD, U Toronto\nRhea Malhotra · BSc, Stanford (Best Thesis)\nHao Zhao · MSc, EPFL → PhD, EPFL\nDanya Li · MSc, EPFL → PhD, DTU\n\n\n\n\n\n© 2026 LEMA Lab. All rights reserved."
+  },
+  {
+    "objectID": "Research.html#open-positions",
+    "href": "Research.html#open-positions",
+    "title": "Home – LEMA Lab",
+    "section": "Open Positions",
+    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
+  },
+  {
+    "objectID": "Research.html#research-directions",
+    "href": "Research.html#research-directions",
+    "title": "Home – LEMA Lab",
+    "section": "Research Directions",
+    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "Research.html#selected-publications",
+    "href": "Research.html#selected-publications",
+    "title": "Home – LEMA Lab",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\nWorld Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry\n\nYuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang, Kevin Murphy, Chelsea Finn, Yilun Du\n\n\nPreprint, 2026 · Best Paper, ICLR World Model Workshop\n\nPaper Project Code\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026 · Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\nPaper Project Code\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026 · Oral (0.7%)\n\nPaper Project Code\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025 · Best Paper, RSS Robot Representation Workshop\n\nPaper Project Code\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\nPaper Project Code\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\nPaper Project Code"
+  },
+  {
+    "objectID": "Research.html#team-members",
+    "href": "Research.html#team-members",
+    "title": "Home – LEMA Lab",
+    "section": "Team Members",
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\n\n\n© 2026 LEMA Lab. All rights reserved."
+  },
+  {
+    "objectID": "People.html#team-members",
+    "href": "People.html#team-members",
+    "title": "People",
+    "section": "Team Members",
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\nCurrent\n\n\nProspective members · NUS\nJacky Kwok · PhD, Stanford\nXilun Zhang · PhD, Stanford\nYinpei Dai · PhD, U Michigan\nAlec Lessing · MSc, Stanford\nYi Du · MSc, Stanford\nEric Liang · MSc, Stanford\n\n\n\n\nAlumni\n\n\nXilun Zhang · MSc, CMU → PhD, Stanford\nJubayer Hamid · BSc, Stanford → PhD, Stanford\nFrano Rajič · MSc, EPFL → PhD, ETH\nQi Yan · MSc, EPFL → PhD, UBC\nRiccardo Cadei · MSc, EPFL → PhD, ISTA\nSherwin Bahmani · MSc, TUD → PhD, U Toronto\nRhea Malhotra · BSc, Stanford (Best Thesis)\nHao Zhao · MSc, EPFL → PhD, EPFL\nDanya Li · MSc, EPFL → PhD, DTU\n\n\n\n\n\n© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "People.html#research-directions",
+    "href": "People.html#research-directions",
+    "title": "People",
+    "section": "Research Directions",
+    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "People.html#selected-publications",
+    "href": "People.html#selected-publications",
+    "title": "People",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\nWorld Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry\n\nYuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang, Kevin Murphy, Chelsea Finn, Yilun Du\n\n\nPreprint, 2026 · Best Paper, ICLR World Model Workshop\n\nPaper Project Code\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026 · Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\nPaper Project Code\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026 · Oral (0.7%)\n\nPaper Project Code\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025 · Best Paper, RSS Robot Representation Workshop\n\nPaper Project Code\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\nPaper Project Code\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\nPaper Project Code"
+  },
+  {
+    "objectID": "People.html#team-members-1",
+    "href": "People.html#team-members-1",
+    "title": "People",
+    "section": "Team Members",
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\nCurrent\n\n\nProspective members · NUS\nJacky Kwok · PhD, Stanford\nXilun Zhang · PhD, Stanford\nYinpei Dai · PhD, U Michigan\nAlec Lessing · MSc, Stanford\nYi Du · MSc, Stanford\nEric Liang · MSc, Stanford\n\n\n\n\nAlumni\n\n\nXilun Zhang · MSc, CMU → PhD, Stanford\nJubayer Hamid · BSc, Stanford → PhD, Stanford\nFrano Rajič · MSc, EPFL → PhD, ETH\nQi Yan · MSc, EPFL → PhD, UBC\nRiccardo Cadei · MSc, EPFL → PhD, ISTA\nSherwin Bahmani · MSc, TUD → PhD, U Toronto\nRhea Malhotra · BSc, Stanford (Best Thesis)\nHao Zhao · MSc, EPFL → PhD, EPFL\nDanya Li · MSc, EPFL → PhD, DTU\n\n\n\n\n\n© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "People.html#principle-investigator",
+    "href": "People.html#principle-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Assistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote"
+  },
+  {
+    "objectID": "Home.html#graduate-students",
+    "href": "Home.html#graduate-students",
+    "title": "Home – LEMA Lab",
+    "section": "Graduate Students",
+    "text": "Graduate Students\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\nWorld Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry\n\nYuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang, Kevin Murphy, Chelsea Finn, Yilun Du\n\n\nPreprint, 2026 · Best Paper, ICLR World Model Workshop\n\nPaper Project Code\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026 · Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\nPaper Project Code\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026 · Oral (0.7%)\n\nPaper Project Code\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025 · Best Paper, RSS Robot Representation Workshop\n\nPaper Project Code\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\nPaper Project Code\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\nPaper Project Code"
+  },
+  {
+    "objectID": "People.html#graduate-students",
+    "href": "People.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "People.html#research-staff",
+    "href": "People.html#research-staff",
+    "title": "People",
+    "section": "Research Staff",
+    "text": "Research Staff\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "People.html#visiting-scholars",
+    "href": "People.html#visiting-scholars",
+    "title": "People",
+    "section": "Visiting Scholars",
+    "text": "Visiting Scholars\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?"
+  },
+  {
+    "objectID": "People.html#alumni",
+    "href": "People.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n\n\n\n© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Home.html#welcome",
+    "href": "Home.html#welcome",
+    "title": "EMC2 Laboratory",
+    "section": "Welcome",
+    "text": "Welcome\n\nWelcome to the EMC2 Lab at UNC Charlotte. We are interested in understanding, designing, and optimizing multi-phase, mutli-scale, thermochemically reacting systems to enable next-generation energy, propulsion, and critical materials technologies. We utilize both experimental and modeling approaches, ranging from lab-scale tests and quantitative diagnostics to computer-assitsted theoretical modeling, to reveal fundmental physcial and chemical mechanisms controlling key process in these systems."
+  },
+  {
+    "objectID": "Home.html#latest-news",
+    "href": "Home.html#latest-news",
+    "title": "EMC2 Laboratory",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\nEMC2 Lab was founded\n\nDaoguan Ning joins the Department of Mechanical Engineering and Engineering Science at the University of North Carolina, Charlotte as an Assistant Professor\n\n\nCharlotte, 21 Jun. 2026. # Lab Event\n\n\n\nDetails"
+  },
+  {
+    "objectID": "Home.html#section",
+    "href": "Home.html#section",
+    "title": "EMC2 Laboratory",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Publications.html#conference-paper",
+    "href": "Publications.html#conference-paper",
+    "title": "Publications",
+    "section": "Conference Paper",
+    "text": "Conference Paper\n\n2026\n\n© 2026 LEMA Lab. All rights reserved."
   }
 ]

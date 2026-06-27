@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Energy and Material Conversion Systems Lab"
+  title: "EMC<sup>2</sup> Lab"
 
   navbar:
     left:
@@ -36,5 +36,6 @@ website:
 
 format:
   html:
-    theme: spacelab
+    theme: cosmo
     toc: true
+    anchor-sections: false

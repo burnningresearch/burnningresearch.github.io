@@ -1,0 +1,86 @@
+---
+title: "People"
+description: "Learning for Embodied Minds and Agents at the National University of Singapore."
+page-layout: article
+title-block-banner: false
+css: style.css
+format:
+  html:
+    grid:
+      body-width: 1000px
+      margin-width: 300px
+---
+
+## Principle Investigator
+
+::: {.box}
+
+#### [Yuejiang Liu](https://yuejiangliu.github.io/)
+
+Assistant Professor, NUS · Presidential Young Professorship
+
+Department of Computer Science
+
+[Scholar](https://scholar.google.com/citations?hl=en&user=Xi-B5WIAAAAJ){.pub-link} [Twitter](https://x.com/liu_yuejiang){.pub-link} [RedNote](https://www.xiaohongshu.com/user/profile/5f091f240000000001006b82){.pub-link}
+:::
+
+## Graduate Students
+
+We study how embodied agents can learn from interaction, reason about the
+physical world, and improve autonomously.
+
+::: {.box}
+### Adaptive Robot Policies
+
+How can robot policies adapt dynamically at inference time to handle new
+tasks, environments, and embodiment variations?
+:::
+
+::: {.box}
+### Interactive World Models
+
+How can structured world models help agents anticipate spatial, temporal,
+and physical interactions before acting?
+:::
+
+::: {.box}
+### Proactive Self-Improvement
+
+How can agents verify and learn from their own predictions to improve
+continually with minimal human supervision?
+:::
+
+
+## Research Staff
+
+::: {.box}
+### Proactive Self-Improvement
+
+How can agents verify and learn from their own predictions to improve
+continually with minimal human supervision?
+:::
+
+
+## Visiting Scholars
+
+::: {.box}
+### Adaptive Robot Policies
+
+How can robot policies adapt dynamically at inference time to handle new
+tasks, environments, and embodiment variations?
+:::
+
+## Alumni
+
+::: {.box}
+
+::: {.list-clean}
+<!-- - [Xilun Zhang](https://xilunzhangrobo.github.io/) [·]{.member-role} [MSc, CMU → PhD, Stanford]{.member-role} -->
+:::
+:::
+
+
+::: {.text-center .text-muted}
+
+© 2026 EMC<sup>2</sup> Lab. All rights reserved.
+:::

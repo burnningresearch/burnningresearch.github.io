@@ -1,25 +1,218 @@
 ---
-title: Home
+#title: "Welcome"
+#description: "Welcome"
+page-layout: article
+title-block-banner: false
+css: style.css
+format:
+  html:
+    grid:
+      body-width: 1000px
+      margin-width: 300px
 ---
 
-# Welcome
+::: {.text-center style="margin-top:-1rem;"}
+# <span style="color:#c1502e;">EMC<sup>2</sup></span> Laboratory
 
-## Combustion and Energy Systems Laboratory
+<p style="font-size:1.8rem; font-weight:600; margin-top:-1rem;">
+<span style="color:#c1502e;">E</span>nergy
+<span style="color:#c1502e;">M</span>aterials
+<span style="color:#c1502e;">C</span>onversion and
+<span style="color:#c1502e;">C</span>ombustion
+</p>
+<!--*Department of Mechanical Engineering and Engineering Science*  
+*University of North Carolina at Charlotte*-->
 
-Research Areas
+:::
 
-- Metal Fuel Combustion
-- Sustainable Energy
-- Propulsion
-- Critical Material Recycling
+## Welcome
+::: {.hero}
+Welcome to the EMC<sup>2</sup> Lab at UNC Charlotte. We are interested in understanding, designing, and optimizing multi-phase, mutli-scale, thermochemically reacting systems to enable next-generation energy, propulsion, and critical materials technologies. We utilize both experimental and modeling approaches, ranging from lab-scale tests and quantitative diagnostics to computer-assitsted theoretical modeling, to reveal fundmental physcial and chemical mechanisms controlling key process in these systems. 
 
-![](images/lab.jpg)
+:::
 
-## News
+## Open Positions
 
-- New paper accepted in Combustion and Flame
-- New PhD student joined
+::: {.box}
+We welcome PhD students, postdoctoral researchers, and visiting students
+interested in building the next generation of embodied agents, with
+research directions including robot learning, world models, multimodal
+agents, data curation, and recursive self-improvement.
+
+[Join Us — 3 PhD Openings, Apply by Dec 15](https://lema-nus.github.io/contact.html#openings){.btn-app}
+:::
+
+## Research Directions
+
+We study how embodied agents can learn from interaction, reason about the
+physical world, and improve autonomously.
+
+::: {.box-grid-3}
+
+::: {.box}
+### Adaptive Robot Policies
+
+How can robot policies adapt dynamically at inference time to handle new
+tasks, environments, and embodiment variations?
+:::
+
+::: {.box}
+### Interactive World Models
+
+How can structured world models help agents anticipate spatial, temporal,
+and physical interactions before acting?
+:::
+
+::: {.box}
+### Proactive Self-Improvement
+
+How can agents verify and learn from their own predictions to improve
+continually with minimal human supervision?
+:::
+
+:::
+
+## Latest News
+
+::: {.pub-list-wrap}
+
+::: {.pub-list}
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### EMC<sup>2</sup> Lab was founded
+
+::: {.pub-authors}
+Daoguan Ning joins the Department of Mechanical Engineering and Engineering Science at the University of North Carolina, Charlotte as an Assistant Professor
+:::
+
+::: {.pub-venue}
+Charlotte, **21 Jun. 2026**. # Lab Event
+:::
+:::
+
+::: {.pub-links}
+[Details]{.pub-link}
+:::
+:::
+
+:::
+
+:::
+
+## Selected Publications
+
+Below is a representative selection of recent publications. For the full
+publication list, please refer to the
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Xi-B5WIAAAAJ)
+profile.
+
+::: {.pub-list-wrap}
+
+::: {.pub-list}
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+
+::: {.pub-authors}
+Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone
+:::
+
+::: {.pub-venue}
+ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2602.12281){.pub-link} [Project](https://cover-vla.github.io){.pub-link} [Code](https://github.com/cover-vla/cover-vla){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
+
+::: {.pub-authors}
+Yinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai
+:::
+
+::: {.pub-venue}
+International Conference on Machine Learning (ICML), 2026. **Oral (0.7%)**
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2603.04639){.pub-link} [Project](https://robomme.github.io/){.pub-link} [Code](https://github.com/RoboMME/robomme_benchmark){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Learning Long-Context Diffusion Policies via Past-Token Prediction
+
+::: {.pub-authors}
+Marcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn
+:::
+
+::: {.pub-venue}
+Conference on Robot Learning (CoRL), 2025. **Best Paper**, RSS Robot Representation Workshop
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2505.09561){.pub-link} [Project](https://long-context-dp.github.io/){.pub-link} [Code](https://github.com/long-context-dp/ldp){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Demo-SCORE: Curating Demonstrations using Online Experience
+
+::: {.pub-authors}
+Annie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn
+:::
+
+::: {.pub-venue}
+Robotics: Science and Systems (RSS), 2025
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2503.03707){.pub-link} [Project](https://anniesch.github.io/demo-score/){.pub-link} [Code](https://github.com/alessing/demo-score){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling
+
+::: {.pub-authors}
+Yuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn
+:::
+
+::: {.pub-venue}
+International Conference on Learning Representations (ICLR), 2025
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2408.17355){.pub-link} [Project](https://bid-robot.github.io/){.pub-link} [Code](https://github.com/YuejiangLIU/bid_diffusion){.pub-link}
+:::
+:::
+
+:::
+
+:::
 
 ## Contact
+::: {.box .contact-box}
+**Email:** <dning@charlotte.edu>
 
-Email: your@email.com
+**Address:** COM 1, 13 Computing Drive, Singapore 117417
+:::
+
+##
+::: {.text-center style="font-size:0.75rem; color:#111; margin-top:2rem;"}
+© 2026 EMC<sup>2</sup></span> Lab. All rights reserved.
+:::
