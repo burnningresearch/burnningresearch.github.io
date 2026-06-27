@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Combustion and Energy Systems Lab"
+  title: "Energy and Material Conversion Systems Lab"
 
   navbar:
     left:
@@ -19,11 +19,11 @@ website:
       - href: Publications.qmd
         text: Publications
 
-      - href: Teaching.qmd
-        text: Teaching
-
       - href: People.qmd
         text: People
+
+      - href: Teaching.qmd
+        text: Teaching
 
       - href: News.qmd
         text: News
@@ -36,5 +36,5 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     toc: true
