@@ -1,6 +1,7 @@
 ---
 title: "Publications"
-description: "Learning for Embodied Minds and Agents at the National University of Singapore."
+description: "For the full publication list, please refer to the [Google Scholar](https://scholar.google.com/citations?user=189buh4AAAAJ&hl=zh-CN&oi=ao)
+profile."
 page-layout: article
 title-block-banner: false
 css: style.css
@@ -11,12 +12,8 @@ format:
       margin-width: 300px
 ---
 
-## Selected Publications
-
-Below is a representative selection of recent publications. For the full
-publication list, please refer to the
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=Xi-B5WIAAAAJ)
-profile.
+## Journal Articles
+### 2026
 
 ::: {.pub-list-wrap}
 
@@ -116,8 +113,8 @@ International Conference on Learning Representations (ICLR), 2025
 
 :::
 
-## Journal Articles
-### 2026 
+
+### 2025 
 
 ::: {.pub-list-wrap}
 
@@ -145,7 +142,7 @@ ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
 
 :::
 
-### 2025
+### 2024
 
 ::: {.pub-list-wrap}
 
@@ -176,6 +173,7 @@ ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
 ## Conference Paper
 ### 2026
 
+##
 ::: {.text-center style="font-size:0.75rem; color:#111; margin-top:2rem;"}
 © 2026 EMC<sup>2</sup></span> Lab. All rights reserved.
 :::

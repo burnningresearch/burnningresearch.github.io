@@ -122,6 +122,7 @@ creating strong opportunities for research careers.
 **Address:** COM 1, 13 Computing Drive, Singapore 117417
 :::
 
-::: {.text-center .text-muted}
-© 2026 LEMA Lab. All rights reserved.
+##
+::: {.text-center style="font-size:0.75rem; color:#111; margin-top:2rem;"}
+© 2026 EMC<sup>2</sup></span> Lab. All rights reserved.
 :::

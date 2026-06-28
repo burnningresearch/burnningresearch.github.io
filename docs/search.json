@@ -32,14 +32,14 @@
     "href": "People.html",
     "title": "People",
     "section": "",
-    "text": "Assistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote"
+    "text": "Assistant Professor\nDepartment of Mechanical Engineering and Engineering Science\nUniversity of North Carolina Charlotte\n\nEmail Scholar ResearchGate LinkedIn C.V."
   },
   {
     "objectID": "Research.html",
     "href": "Research.html",
-    "title": "Home – LEMA Lab",
+    "title": "EMC2 Laboratory",
     "section": "",
-    "text": "Discover the Principles of Intelligence; Embrace the Joy of Research.\n\nWelcome to the LEMA Lab in the Department of Computer Science at the National University of Singapore. We are a collaborative group of researchers working to build intelligent agents that can perceive, reason, and act in the physical world. Our research bridges machine learning, computer vision, and robotics, with a focus on learning agents that can generalize from limited data, adapt during deployment, remember what matters, and improve through experience.\n\nPronounced “lemma” in English, our lab is committed to discovering simple and scalable principles behind embodied intelligence, with as little manual effort as possible. Read as “乐马” in Mandarin, our lab was born in the Year of the Horse (马), dedicated to fostering the joy (乐) of learning, exploration, and growth in every lab member."
+    "text": "Energy Materials Conversion and Combustion"
   },
   {
     "objectID": "Research.html#deveolpment-and-application-of",
@@ -116,14 +116,14 @@
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Below is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\n\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
+    "text": "Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\n\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code"
   },
   {
     "objectID": "Publications.html#journal-articles",
     "href": "Publications.html#journal-articles",
     "title": "Publications",
-    "section": "Journal Articles",
-    "text": "Journal Articles\n\n2026\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\n2025\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code"
+    "section": "",
+    "text": "Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\n\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code"
   },
   {
     "objectID": "Openning.html",
@@ -151,7 +151,7 @@
     "href": "Openning.html#who-we-look-for",
     "title": "Contact – LEMA Lab",
     "section": "Who We Look For",
-    "text": "Who We Look For\n\n\nMinimum Qualifications\n\nUncompromising intellectual honesty and research integrity.\nStrong background in machine learning, robot learning, computer vision, robotics, physics, or related areas.\nGood written and verbal communication skills, with the ability to explain ideas clearly and collaborate effectively.\n\n\n\nPreferred Qualifications\n\nIntrinsic curiosity and genuine interest in fundamental research.\nIndependent thinking, ownership, and a demonstrated record of initiative or exceptional achievement.\nEvidence of substantial prior research experience, such as high-quality publications or submissions in relevant venues.\n\n\n\n\nEmail: liuyj [at] comp.nus.edu.sg\nAddress: COM 1, 13 Computing Drive, Singapore 117417\n\n\n© 2026 LEMA Lab. All rights reserved."
+    "text": "Who We Look For\n\n\nMinimum Qualifications\n\nUncompromising intellectual honesty and research integrity.\nStrong background in machine learning, robot learning, computer vision, robotics, physics, or related areas.\nGood written and verbal communication skills, with the ability to explain ideas clearly and collaborate effectively.\n\n\n\nPreferred Qualifications\n\nIntrinsic curiosity and genuine interest in fundamental research.\nIndependent thinking, ownership, and a demonstrated record of initiative or exceptional achievement.\nEvidence of substantial prior research experience, such as high-quality publications or submissions in relevant venues.\n\n\n\n\nEmail: liuyj [at] comp.nus.edu.sg\nAddress: COM 1, 13 Computing Drive, Singapore 117417"
   },
   {
     "objectID": "Publications.html#open-positions",
@@ -193,7 +193,7 @@
     "href": "Home.html#selected-publications",
     "title": "EMC2 Laboratory",
     "section": "Selected Publications",
-    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nHTML PDF Project\n\n\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Preprint Code\n\n\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
   },
   {
     "objectID": "Home.html#team-members",
@@ -233,30 +233,30 @@
   {
     "objectID": "Research.html#open-positions",
     "href": "Research.html#open-positions",
-    "title": "Home – LEMA Lab",
+    "title": "EMC2 Laboratory",
     "section": "Open Positions",
     "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
   },
   {
     "objectID": "Research.html#research-directions",
     "href": "Research.html#research-directions",
-    "title": "Home – LEMA Lab",
+    "title": "EMC2 Laboratory",
     "section": "Research Directions",
     "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
   },
   {
     "objectID": "Research.html#selected-publications",
     "href": "Research.html#selected-publications",
-    "title": "Home – LEMA Lab",
+    "title": "EMC2 Laboratory",
     "section": "Selected Publications",
-    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\nWorld Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry\n\nYuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang, Kevin Murphy, Chelsea Finn, Yilun Du\n\n\nPreprint, 2026 · Best Paper, ICLR World Model Workshop\n\nPaper Project Code\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026 · Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\nPaper Project Code\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026 · Oral (0.7%)\n\nPaper Project Code\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025 · Best Paper, RSS Robot Representation Workshop\n\nPaper Project Code\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\nPaper Project Code\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\nPaper Project Code"
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nPaper Project Code\n\n\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Project Code\n\n\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
   },
   {
     "objectID": "Research.html#team-members",
     "href": "Research.html#team-members",
     "title": "Home – LEMA Lab",
     "section": "Team Members",
-    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\n\n\n© 2026 LEMA Lab. All rights reserved."
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\n\nScholar Twitter RedNote\n\n\n\n\n\n\n\n© 2026 EMC Lab. All rights reserved."
   },
   {
     "objectID": "People.html#team-members",
@@ -291,7 +291,7 @@
     "href": "People.html#principle-investigator",
     "title": "People",
     "section": "",
-    "text": "Assistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote"
+    "text": "Assistant Professor\nDepartment of Mechanical Engineering and Engineering Science\nUniversity of North Carolina Charlotte\n\nEmail Scholar ResearchGate LinkedIn C.V."
   },
   {
     "objectID": "Home.html#graduate-students",
@@ -305,7 +305,7 @@
     "href": "People.html#graduate-students",
     "title": "People",
     "section": "Graduate Students",
-    "text": "Graduate Students\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+    "text": "Graduate Students\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
   },
   {
     "objectID": "People.html#research-staff",
@@ -326,7 +326,7 @@
     "href": "People.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n\n\n\n\n© 2026 EMC2 Lab. All rights reserved."
+    "text": "Alumni"
   },
   {
     "objectID": "Home.html#welcome",
@@ -354,6 +354,97 @@
     "href": "Publications.html#conference-paper",
     "title": "Publications",
     "section": "Conference Paper",
-    "text": "Conference Paper\n\n2026\n\n© 2026 LEMA Lab. All rights reserved."
+    "text": "Conference Paper\n\n2026"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "EMC<sup>2</sup> Lab",
+    "section": "",
+    "text": "/* ========================================================================== style.css — Personal research website theme Palette: “Ember & Slate” — warm ember accent + deep slate text, loosely inspired by combustion (ember orange) and a calm academic base.\nTo use other palettes, just swap the values inside :root below. Two alternates are provided as comments at the bottom of this block. ========================================================================== */\n@import url(‘https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap’);\n:root { /* — Color tokens ————————————————- / –color-bg: #faf9f6; / page background, warm off-white / –color-surface: #ffffff; / cards / boxes / –color-text: #1f2328; / primary text, near-black slate / –color-text-muted: #5b6168; / secondary text / –color-accent: #c1502e; / ember orange — links, buttons, highlights / –color-accent-dark: #9c3f22; / hover state for accent / –color-secondary: #1d3557; / deep slate blue — headings, nav */ –color-border: #e8e6e1;\n/* — ALTERNATE PALETTE 1: “Magnet Blue” —————————– –color-bg: #f5f6f8; –color-surface: #ffffff; –color-text: #1a1d29; –color-text-muted: #5c6370; –color-accent: #2b4c7e; –color-accent-dark: #1e3556; –color-secondary: #b87333; –color-border: #e2e4e9; ———————————————————————– */\n/* — ALTERNATE PALETTE 2: “Graphite & Citrine” (dark) ————— –color-bg: #111315; –color-surface: #1b1e21; –color-text: #e8e6e1; –color-text-muted: #9aa0a6; –color-accent: #f2b134; –color-accent-dark: #cf9626; –color-secondary: #f2b134; –color-border: #2a2d31; ———————————————————————– */\n/* — Type, radius, shadow —————————————— */ –font-display: ‘Fraunces’, Georgia, ‘Times New Roman’, serif; –font-body: ‘Inter’, -apple-system, BlinkMacSystemFont, ‘Segoe UI’, sans-serif; –radius: 10px; –shadow: 0 2px 6px rgba(0, 0, 0, 0.05); }\n/* ========================================================================== Base ========================================================================== */\nbody { background-color: var(–color-bg); color: var(–color-text); font-family: var(–font-body); line-height: 1.65; -webkit-font-smoothing: antialiased; }\nh1, h2, h3, h4 { font-family: var(–font-display); color: var(–color-secondary); font-weight: 600; letter-spacing: -0.01em; }\nh1 { font-size: 2.1rem; } h2 { font-size: 1.5rem; margin-top: 2.5rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(–color-border); } h3 { font-size: 1.1rem; }\np, li { color: var(–color-text); }\na { color: var(–color-accent); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.15s ease, color 0.15s ease; } a:hover { border-bottom-color: var(–color-accent); }\n::selection { background-color: var(–color-accent); color: #fff; }\n/* ========================================================================== Layout ========================================================================== */\n/* Page width is controlled via the format.html.grid YAML option (body-width / margin-width) in each .qmd’s front matter, or in _quarto.yml at the project level — NOT here. Overriding .page-columns / grid-template-columns directly in CSS breaks Quarto’s TOC (“On this page”) column placement. */\n/* ========================================================================== Navigation (if using a Quarto site navbar) ========================================================================== */\n.navbar { background-color: var(–color-surface) !important; border-bottom: 1px solid var(–color-border); } .navbar-title, .navbar-brand { font-family: var(–font-display); font-weight: 600; color: var(–color-secondary) !important; } .navbar-nav .nav-link { color: var(–color-text-muted) !important; font-weight: 500; } .navbar-nav .nav-link:hover, .navbar-nav .nav-link.active { color: var(–color-accent) !important; }\n/* ========================================================================== Cards / boxed sections ========================================================================== */\n.box { background-color: var(–color-surface); border: 1px solid var(–color-border); border-radius: var(–radius); box-shadow: var(–shadow); padding: 1.5rem 1.75rem; margin-bottom: 1.5rem; color: var(–color-text-muted); } .box h3 { color: var(–color-secondary); font-size: 1.05rem; margin-top: 0; margin-bottom: 0.6rem; } .contact-box p { margin: 0.25rem 0; }\n.box-grid, .box-grid-3 { display: grid; gap: 1.25rem; } .box-grid { grid-template-columns: repeat(2, 1fr); } .box-grid-3 { grid-template-columns: repeat(3, 1fr); } .box-grid .box, .box-grid-3 .box { margin-bottom: 0; }\n@media (max-width: 768px) { .box-grid, .box-grid-3 { grid-template-columns: 1fr; } }\n/* ========================================================================== Buttons ========================================================================== */\n.btn-app { display: inline-block; margin-top: 0.5rem; padding: 0.6rem 1.5rem; background-color: var(–color-accent); color: #fff !important; text-decoration: none !important; border: none; border-radius: 20px; font-weight: 500; font-family: var(–font-body); transition: background-color 0.2s ease; } .btn-app:hover { background-color: var(–color-accent-dark); }\n.btn-app-outline { display: inline-block; margin-top: 0.5rem; padding: 0.55rem 1.4rem; background-color: transparent; color: var(–color-secondary) !important; border: 1.5px solid var(–color-secondary); border-radius: 8px; font-weight: 500; text-decoration: none !important; transition: background-color 0.2s ease, color 0.2s ease; } .btn-app-outline:hover { background-color: var(–color-secondary); color: #fff !important; }\n/* ========================================================================== Hero (landing page intro) ========================================================================== */\n.hero { background-color: var(–color-surface); border: 1px solid var(–color-border); border-radius: var(–radius); box-shadow: var(–shadow); padding: 3rem 2.75rem; margin-bottom: 2rem; } .hero h1 { font-size: 2.4rem; margin-top: 0; margin-bottom: 0.4rem; } .hero .tagline { color: var(–color-accent); font-family: var(–font-display); font-size: 1.15rem; font-weight: 500; margin: 0 0 1.25rem 0; } .hero .hero-note { color: var(–color-text-muted); font-size: 0.9rem; border-left: 3px solid var(–color-border); padding-left: 1rem; margin-top: 1.5rem; }\n/* ========================================================================== Publications / pubs list (common on research sites) ========================================================================== */\n.pub-entry h4 { font-family: var(–font-display); color: var(–color-secondary); font-size: 1.05rem; margin: 0 0 0.4rem 0; } .pub-entry p { margin: 0.2rem 0; } .pub-entry .pub-authors { color: var(–color-text-muted); font-size: 0.92rem; } .pub-entry .pub-venue { color: var(–color-text-muted); font-size: 0.9rem; font-style: italic; } .pub-entry .pub-venue strong { color: var(–color-text); font-style: italic; }\n/* — Publications: scrollable list ———————————- */\n.pub-list-wrap { position: relative; margin-bottom: 1.5rem; } .pub-list-wrap::after { content: ““; position: absolute; left: 0; right: 0.6rem; bottom: 0; height: 36px; background: linear-gradient(to bottom, transparent, var(–color-bg)); pointer-events: none; border-radius: 0 0 var(–radius) var(–radius); }\n.pub-list { max-height: 480px; overflow-y: auto; padding-right: 0.6rem; scrollbar-width: thin; scrollbar-color: var(–color-border) transparent; } .pub-list::-webkit-scrollbar { width: 8px; } .pub-list::-webkit-scrollbar-track { background: transparent; } .pub-list::-webkit-scrollbar-thumb { background-color: rgba(91, 97, 104, 0.45); /* ~45% var(–color-text-muted); static value for broad browser support */ border-radius: 4px; } .pub-list:hover::-webkit-scrollbar-thumb, .pub-list:focus-within::-webkit-scrollbar-thumb { background-color: var(–color-secondary); }\n.pub-list .box.pub-entry { margin-bottom: 0.75rem; min-height: 140px; } .pub-list .box.pub-entry:last-child { margin-bottom: 0; }\n.pub-entry { display: flex; align-items: stretch; justify-content: space-between; gap: 1.5rem; } .pub-entry .pub-main { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; justify-content: center; } .pub-entry .pub-links { flex: 0 0 auto; display: flex; flex-direction: column; align-self: center; }\n.pub-entry .pub-links .pub-link + .pub-link { margin-top: 1rem; }\n.pub-link { display: block; width: 5.5rem; padding: 0.55rem 0; font-size: 0.82rem; font-weight: 500; text-align: center; border-radius: 999px; background-color: #f8eae6; /* ~12% var(–color-accent) tint over white; static value for broad browser support */ color: var(–color-accent) !important; text-decoration: none !important; white-space: nowrap; border: 1px solid var(–color-accent); box-sizing: border-box; } .pub-link:hover { background-color: var(–color-accent); color: #fff !important; }\n@media (max-width: 768px) { .pub-entry { flex-direction: column; align-items: flex-start; gap: 0.75rem; } .pub-entry .pub-links { flex-direction: row; flex-wrap: wrap; } }\n/* ========================================================================== Member lists (Team / Current / Alumni) ========================================================================== */\n.list-clean ul { list-style: none; padding-left: 0; margin: 0; } .list-clean li { padding: 0.55rem 0; border-bottom: 1px dashed var(–color-border); } .list-clean li:last-child { border-bottom: none; } .list-clean .member-role { color: var(–color-text-muted); font-size: 0.9rem; }\n/* ========================================================================== Misc text utilities ========================================================================== */\n.text-center { text-align: center; } .text-muted { color: var(–color-text-muted); }\n/* ========================================================================== Footer ========================================================================== */\nfooter, .page-footer { border-top: 1px solid var(–color-border); color: var(–color-text-muted); font-size: 0.875rem; padding-top: 1.5rem; margin-top: 3rem; }\n/* ========================================================================== Publications — collapsible year groups ========================================================================== */\n.pub-year-group { margin-bottom: 0.75rem; }\n.pub-year-label { display: flex; align-items: center; gap: 0.6rem; font-family: var(–font-display); font-size: 1.3rem; font-weight: 600; color: var(–color-secondary); cursor: pointer; user-select: none; padding: 0.5rem 0; list-style: none; /* hide default marker in Firefox / border-bottom: 2px solid var(–color-border); margin-bottom: 0.75rem; } .pub-year-label::-webkit-details-marker { display: none; } / hide Safari marker */\n/* custom chevron indicator */ .pub-year-label::before { content: “▾”; font-size: 1rem; color: var(–color-accent); transition: transform 0.2s ease; display: inline-block; } details.pub-year-group:not([open]) .pub-year-label::before { transform: rotate(-90deg); }\n.pub-year-label:hover { color: var(–color-accent); }\n/* remove the outer scroll wrap when year groups handle their own layout */ .pub-list-wrap::after { display: none; }"
+  },
+  {
+    "objectID": "Teaching.html#open-positions",
+    "href": "Teaching.html#open-positions",
+    "title": "Home – LEMA Lab",
+    "section": "Open Positions",
+    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
+  },
+  {
+    "objectID": "Teaching.html#research-directions",
+    "href": "Teaching.html#research-directions",
+    "title": "Home – LEMA Lab",
+    "section": "Research Directions",
+    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "Teaching.html#selected-publications",
+    "href": "Teaching.html#selected-publications",
+    "title": "Home – LEMA Lab",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n2026\n\n\n\n  \n    World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry\n    Yuejiang Liu, Fan Feng, Lingjing Kong, Weifeng Lu, Jinzhou Tang, Kun Zhang, Kevin Murphy, Chelsea Finn, Yilun Du\n    Preprint, 2026. Best Paper, ICLR World Model Workshop\n  \n  \n    Paper\n    Project\n    Code\n  \n\n\n\n  \n    Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n    Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n    ECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n  \n  \n    Paper\n    Project\n    Code\n  \n\n\n\n  \n    RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n    Yinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n    International Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n  \n  \n    Paper\n    Project\n    Code\n  \n\n\n\n\n\n\n2025\n\n\n\n  \n    Learning Long-Context Diffusion Policies via Past-Token Prediction\n    Marcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n    Conference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n  \n  \n    Paper\n    Project\n    Code\n  \n\n\n\n  \n    Demo-SCORE: Curating Demonstrations using Online Experience\n    Annie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n    Robotics: Science and Systems (RSS), 2025\n  \n  \n    Paper\n    Project\n    Code\n  \n\n\n\n  \n    Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n    Yuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n    International Conference on Learning Representations (ICLR), 2025\n  \n  \n    Paper\n    Project\n    Code"
+  },
+  {
+    "objectID": "Teaching.html#team-members",
+    "href": "Teaching.html#team-members",
+    "title": "Home – LEMA Lab",
+    "section": "Team Members",
+    "text": "Team Members\n\nPrincipal Investigator\n\nYuejiang Liu\nAssistant Professor, NUS · Presidential Young Professorship\nDepartment of Computer Science\nScholar Twitter RedNote\n\n\n\n\nCurrent\n\n\nProspective members · NUS\nJacky Kwok · PhD, Stanford\nXilun Zhang · PhD, Stanford\nYinpei Dai · PhD, U Michigan\nAlec Lessing · MSc, Stanford\nYi Du · MSc, Stanford\nEric Liang · MSc, Stanford\n\n\n\n\nAlumni\n\n\nXilun Zhang · MSc, CMU → PhD, Stanford\nJubayer Hamid · BSc, Stanford → PhD, Stanford\nFrano Rajič · MSc, EPFL → PhD, ETH\nQi Yan · MSc, EPFL → PhD, UBC\nRiccardo Cadei · MSc, EPFL → PhD, ISTA\nSherwin Bahmani · MSc, TUD → PhD, U Toronto\nRhea Malhotra · BSc, Stanford (Best Thesis)\nHao Zhao · MSc, EPFL → PhD, EPFL\nDanya Li · MSc, EPFL → PhD, DTU\n\n\n\n\n\n© 2026 LEMA Lab. All rights reserved."
+  },
+  {
+    "objectID": "Research.html#welcome",
+    "href": "Research.html#welcome",
+    "title": "EMC2 Laboratory",
+    "section": "Welcome",
+    "text": "Welcome\n\nWelcome to the EMC2 Lab at UNC Charlotte. We are interested in understanding, designing, and optimizing multi-phase, mutli-scale, thermochemically reacting systems to enable next-generation energy, propulsion, and critical materials technologies. We utilize both experimental and modeling approaches, ranging from lab-scale tests and quantitative diagnostics to computer-assitsted theoretical modeling, to reveal fundmental physcial and chemical mechanisms controlling key process in these systems."
+  },
+  {
+    "objectID": "Research.html#latest-news",
+    "href": "Research.html#latest-news",
+    "title": "EMC2 Laboratory",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\nEMC2 Lab was founded\n\nDaoguan Ning joins the Department of Mechanical Engineering and Engineering Science at the University of North Carolina, Charlotte as an Assistant Professor\n\n\nCharlotte, 21 Jun. 2026. # Lab Event\n\n\n\nDetails"
+  },
+  {
+    "objectID": "Research.html#contact",
+    "href": "Research.html#contact",
+    "title": "EMC2 Laboratory",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: dning@charlotte.edu\nAddress: COM 1, 13 Computing Drive, Singapore 117417"
+  },
+  {
+    "objectID": "Research.html#section",
+    "href": "Research.html#section",
+    "title": "EMC2 Laboratory",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Openning.html#section",
+    "href": "Openning.html#section",
+    "title": "Contact – LEMA Lab",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "People.html#section",
+    "href": "People.html#section",
+    "title": "People",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Publications.html#section-4",
+    "href": "Publications.html#section-4",
+    "title": "Publications",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "People.html#undergraduate-students",
+    "href": "People.html#undergraduate-students",
+    "title": "People",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
   }
 ]

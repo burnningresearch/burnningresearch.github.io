@@ -125,7 +125,7 @@ ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
 :::
 
 ::: {.pub-links}
-[Paper](https://arxiv.org/abs/2602.12281){.pub-link} [Project](https://cover-vla.github.io){.pub-link} [Code](https://github.com/cover-vla/cover-vla){.pub-link}
+[HTML](https://doi.org/10.1016/j.proci.2022.07.030){.pub-link} [PDF](/publications_files/papers/2022_Size_evolution.pdf){.pub-link} [Project](https://github.com/cover-vla/cover-vla){.pub-link}
 :::
 :::
 
@@ -179,7 +179,7 @@ Robotics: Science and Systems (RSS), 2025
 :::
 
 ::: {.pub-links}
-[Paper](https://arxiv.org/abs/2503.03707){.pub-link} [Project](https://anniesch.github.io/demo-score/){.pub-link} [Code](https://github.com/alessing/demo-score){.pub-link}
+[Paper](https://arxiv.org/abs/2503.03707){.pub-link} [Preprint](https://anniesch.github.io/demo-score/){.pub-link} [Code](https://github.com/alessing/demo-score){.pub-link}
 :::
 :::
 
