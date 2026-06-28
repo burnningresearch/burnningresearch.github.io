@@ -1,0 +1,178 @@
+---
+title: "Projects"
+description: "For the full publication list, please refer to the [Google Scholar](https://scholar.google.com/citations?user=189buh4AAAAJ&hl=zh-CN&oi=ao)profile."
+page-layout: article
+title-block-banner: false
+css: style.css
+format:
+  html:
+    grid:
+      body-width: 1000px
+      margin-width: 300px
+---
+
+## Journal Articles
+### 2026
+
+::: {.pub-list-wrap}
+
+::: {.pub-list}
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+
+::: {.pub-authors}
+Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone
+:::
+
+::: {.pub-venue}
+ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2602.12281){.pub-link} [Project](https://cover-vla.github.io){.pub-link} [Code](https://github.com/cover-vla/cover-vla){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
+
+::: {.pub-authors}
+Yinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai
+:::
+
+::: {.pub-venue}
+International Conference on Machine Learning (ICML), 2026. **Oral (0.7%)**
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2603.04639){.pub-link} [Project](https://robomme.github.io/){.pub-link} [Code](https://github.com/RoboMME/robomme_benchmark){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Learning Long-Context Diffusion Policies via Past-Token Prediction
+
+::: {.pub-authors}
+Marcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn
+:::
+
+::: {.pub-venue}
+Conference on Robot Learning (CoRL), 2025. **Best Paper**, RSS Robot Representation Workshop
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2505.09561){.pub-link} [Project](https://long-context-dp.github.io/){.pub-link} [Code](https://github.com/long-context-dp/ldp){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Demo-SCORE: Curating Demonstrations using Online Experience
+
+::: {.pub-authors}
+Annie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn
+:::
+
+::: {.pub-venue}
+Robotics: Science and Systems (RSS), 2025
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2503.03707){.pub-link} [Project](https://anniesch.github.io/demo-score/){.pub-link} [Code](https://github.com/alessing/demo-score){.pub-link}
+:::
+:::
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling
+
+::: {.pub-authors}
+Yuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn
+:::
+
+::: {.pub-venue}
+International Conference on Learning Representations (ICLR), 2025
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2408.17355){.pub-link} [Project](https://bid-robot.github.io/){.pub-link} [Code](https://github.com/YuejiangLIU/bid_diffusion){.pub-link}
+:::
+:::
+
+:::
+
+:::
+
+
+### 2025 
+
+::: {.pub-list-wrap}
+
+::: {.pub-list}
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+
+::: {.pub-authors}
+Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone
+:::
+
+::: {.pub-venue}
+ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2602.12281){.pub-link} [Project](https://cover-vla.github.io){.pub-link} [Code](https://github.com/cover-vla/cover-vla){.pub-link}
+:::
+:::
+
+:::
+
+:::
+
+### 2024
+
+::: {.pub-list-wrap}
+
+::: {.pub-list}
+
+::: {.box .pub-entry}
+::: {.pub-main}
+#### Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+
+::: {.pub-authors}
+Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone
+:::
+
+::: {.pub-venue}
+ECCV, 2026. **Best Paper Finalist**, CVPR Scalable Robot Learning Workshop
+:::
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2602.12281){.pub-link} [Project](https://cover-vla.github.io){.pub-link} [Code](https://github.com/cover-vla/cover-vla){.pub-link}
+:::
+:::
+
+:::
+
+:::
+
+## Conference Paper
+### 2026
+
+##
+::: {.text-center style="font-size:0.75rem; color:#111; margin-top:2rem;"}
+© 2026 EMC<sup>2</sup></span> Lab. All rights reserved.
+:::
