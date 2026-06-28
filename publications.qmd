@@ -1,7 +1,6 @@
 ---
 title: "Publications"
-description: "For the full publication list, please refer to the [Google Scholar](https://scholar.google.com/citations?user=189buh4AAAAJ&hl=zh-CN&oi=ao)
-profile."
+description: "For the full publication list, please refer to the [Google Scholar](https://scholar.google.com/citations?user=189buh4AAAAJ&hl=zh-CN&oi=ao)profile."
 page-layout: article
 title-block-banner: false
 css: style.css
