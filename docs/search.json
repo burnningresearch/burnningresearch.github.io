@@ -32,7 +32,7 @@
     "href": "People.html",
     "title": "People",
     "section": "",
-    "text": "Assistant Professor\nDepartment of Mechanical Engineering and Engineering Science\nUniversity of North Carolina Charlotte\n\nEmail Scholar ResearchGate LinkedIn C.V."
+    "text": "Assistant Professor\nDepartment of Mechanical Engineering and Engineering Science\nUniversity of North Carolina, Charlotte\n\nEmail Scholar ResearchGate LinkedIn C.V."
   },
   {
     "objectID": "Research.html",
@@ -86,9 +86,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "EMC2 Laboratory",
     "section": "",
-    "text": "Research Areas\n\nMetal Fuel Combustion\nSustainable Energy\nPropulsion\nCritical Material Recycling\n\n\n\n\n\n\nNew paper accepted in Combustion and Flame\nNew PhD student joined\n\n\n\n\nEmail: your@email.com"
+    "text": "Energy Materials Conversion and Combustion"
   },
   {
     "objectID": "index.html#combustion-and-energy-systems-laboratory",
@@ -107,9 +107,9 @@
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Home",
-    "section": "",
-    "text": "Email: your@email.com"
+    "title": "EMC2 Laboratory",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: dning@charlotte.edu\nAddress: COM 1, 13 Computing Drive, Singapore 117417"
   },
   {
     "objectID": "Publications.html",
@@ -291,7 +291,7 @@
     "href": "People.html#principle-investigator",
     "title": "People",
     "section": "",
-    "text": "Assistant Professor\nDepartment of Mechanical Engineering and Engineering Science\nUniversity of North Carolina Charlotte\n\nEmail Scholar ResearchGate LinkedIn C.V."
+    "text": "Assistant Professor\nDepartment of Mechanical Engineering and Engineering Science\nUniversity of North Carolina, Charlotte\n\nEmail Scholar ResearchGate LinkedIn C.V."
   },
   {
     "objectID": "Home.html#graduate-students",
@@ -446,5 +446,47 @@
     "title": "People",
     "section": "Undergraduate Students",
     "text": "Undergraduate Students\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "EMC2 Laboratory",
+    "section": "Welcome",
+    "text": "Welcome\n\nWelcome to the EMC2 Lab at UNC Charlotte. We are interested in understanding, designing, and optimizing multi-phase, mutli-scale, thermochemically reacting systems to enable next-generation energy, propulsion, and critical materials technologies. We utilize both experimental and modeling approaches, ranging from lab-scale tests and quantitative diagnostics to computer-assitsted theoretical modeling, to reveal fundmental physcial and chemical mechanisms controlling key process in these systems."
+  },
+  {
+    "objectID": "index.html#open-positions",
+    "href": "index.html#open-positions",
+    "title": "EMC2 Laboratory",
+    "section": "Open Positions",
+    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
+  },
+  {
+    "objectID": "index.html#research-directions",
+    "href": "index.html#research-directions",
+    "title": "EMC2 Laboratory",
+    "section": "Research Directions",
+    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "EMC2 Laboratory",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\nEMC2 Lab was founded\n\nDaoguan Ning joins the Department of Mechanical Engineering and Engineering Science at the University of North Carolina, Charlotte as an Assistant Professor\n\n\nCharlotte, 21 Jun. 2026. # Lab Event\n\n\n\nDetails"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "EMC2 Laboratory",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nBelow is a representative selection of recent publications. For the full publication list, please refer to the Google Scholar profile.\n\n\n\n\nScaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment\n\nJacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone\n\n\nECCV, 2026. Best Paper Finalist, CVPR Scalable Robot Learning Workshop\n\n\n\nHTML PDF Project\n\n\n\n\nRoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies\n\nYinpei Dai, Hongze Fu, Jayjun Lee, Yuejiang Liu, Haoran Zhang, Jianing Yang, Chelsea Finn, Nima Fazeli, Joyce Chai\n\n\nInternational Conference on Machine Learning (ICML), 2026. Oral (0.7%)\n\n\n\nPaper Project Code\n\n\n\n\nLearning Long-Context Diffusion Policies via Past-Token Prediction\n\nMarcel Torne, Andy Tang, Yuejiang Liu, Chelsea Finn\n\n\nConference on Robot Learning (CoRL), 2025. Best Paper, RSS Robot Representation Workshop\n\n\n\nPaper Project Code\n\n\n\n\nDemo-SCORE: Curating Demonstrations using Online Experience\n\nAnnie Chen, Alec Lessing, Yuejiang Liu, Chelsea Finn\n\n\nRobotics: Science and Systems (RSS), 2025\n\n\n\nPaper Preprint Code\n\n\n\n\nBidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling\n\nYuejiang Liu, Jubayer Ibn Hamid, Annie Xie, Yoonho Lee, Max Du, Chelsea Finn\n\n\nInternational Conference on Learning Representations (ICLR), 2025\n\n\n\nPaper Project Code"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "EMC2 Laboratory",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
   }
 ]
