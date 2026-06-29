@@ -88,7 +88,7 @@
     "href": "index.html",
     "title": "EMC2 Laboratory",
     "section": "",
-    "text": "Energy Materials Conversion and Combustion"
+    "text": "Energy Material Conversion and Combustion"
   },
   {
     "objectID": "index.html#combustion-and-energy-systems-laboratory",
@@ -459,14 +459,14 @@
     "href": "index.html#open-positions",
     "title": "EMC2 Laboratory",
     "section": "Open Positions",
-    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in building the next generation of embodied agents, with research directions including robot learning, world models, multimodal agents, data curation, and recursive self-improvement.\nJoin Us — 3 PhD Openings, Apply by Dec 15"
+    "text": "Open Positions\n\nWe welcome PhD students, postdoctoral researchers, and visiting students interested in developping next-generation energy，propulsion, and sustainable material processing technology based on fundemental mechanism, unrevealed through experimetal, theoretical, and computational approches.\nJoin Us — 2 PhD Openings, Apply by Dec 15"
   },
   {
     "objectID": "index.html#research-directions",
     "href": "index.html#research-directions",
     "title": "EMC2 Laboratory",
     "section": "Research Directions",
-    "text": "Research Directions\nWe study how embodied agents can learn from interaction, reason about the physical world, and improve autonomously.\n\n\nAdaptive Robot Policies\nHow can robot policies adapt dynamically at inference time to handle new tasks, environments, and embodiment variations?\n\n\nInteractive World Models\nHow can structured world models help agents anticipate spatial, temporal, and physical interactions before acting?\n\n\nProactive Self-Improvement\nHow can agents verify and learn from their own predictions to improve continually with minimal human supervision?"
+    "text": "Research Directions\nWe study thermochemical processes enabling sustainbable enegy converstion, high-performance propulsion, and critical material recycling by devlopping and utilizing advanced experimental and numerical methods.\n\n\n\nAdvanced Optical Dignostics\n\n\n\n\n\n\n\nCritical Material Recycling\n\n\n\n\n\n\n\nHigh-performance Propulsion"
   },
   {
     "objectID": "index.html#latest-news",
@@ -516,5 +516,61 @@
     "title": "Projects",
     "section": "",
     "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Graduate Research Fellowship Program (GRFP), National Science Foundation\nGraduate Research Fellowship Program (GRFP), Department of Energy\nOffice of Science Graduate Student Research (SCGSR) Program, Department of Energy\nNational Defense Science and Engineering Graduate (NDSEG) Fellowship, Department of Defense\nSMART Scholarship Program, Department of Defense, Department of Defense\nNASA Space Technology Graduate Research Opportunities (NSTGRO), National Aeronautics and Space Administration\n\n\n\n\n\nResearch Experiences for Undergraduates (REU), National Science Foundation"
+  },
+  {
+    "objectID": "Resources.html#courses",
+    "href": "Resources.html#courses",
+    "title": "Resources",
+    "section": "Courses",
+    "text": "Courses\n\nUnderconstraction."
+  },
+  {
+    "objectID": "Resources.html#section",
+    "href": "Resources.html#section",
+    "title": "Resources",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Resources.html#funding-resources",
+    "href": "Resources.html#funding-resources",
+    "title": "Resources",
+    "section": "",
+    "text": "Underconstraction."
+  },
+  {
+    "objectID": "Resources.html#scholarship-resources",
+    "href": "Resources.html#scholarship-resources",
+    "title": "Resources",
+    "section": "",
+    "text": "Graduate Research Fellowship Program (GRFP), National Science Foundation\nGraduate Research Fellowship Program (GRFP), Department of Energy\nOffice of Science Graduate Student Research (SCGSR) Program, Department of Energy\nNational Defense Science and Engineering Graduate (NDSEG) Fellowship, Department of Defense\nSMART Scholarship Program, Department of Defense, Department of Defense\nNASA Space Technology Graduate Research Opportunities (NSTGRO), National Aeronautics and Space Administration\n\n\n\n\n\nResearch Experiences for Undergraduates (REU), National Science Foundation"
+  },
+  {
+    "objectID": "Resources.html#section-1",
+    "href": "Resources.html#section-1",
+    "title": "Resources",
+    "section": "",
+    "text": "© 2026 EMC2 Lab. All rights reserved."
+  },
+  {
+    "objectID": "Openning.html#scholarship-resources",
+    "href": "Openning.html#scholarship-resources",
+    "title": "Contact – LEMA Lab",
+    "section": "Scholarship resources",
+    "text": "Scholarship resources\n\n\nFor Graduate Sudents\n\nGraduate Research Fellowship Program (GRFP), National Science Foundation\nGraduate Research Fellowship Program (GRFP), Department of Energy\nOffice of Science Graduate Student Research (SCGSR) Program, Department of Energy\nNational Defense Science and Engineering Graduate (NDSEG) Fellowship, Department of Defense\nSMART Scholarship Program, Department of Defense, Department of Defense\nNASA Space Technology Graduate Research Opportunities (NSTGRO), National Aeronautics and Space Administration\n\n\n\nFor Underraduate Sudents\n\nResearch Experiences for Undergraduates (REU), National Science Foundation"
+  },
+  {
+    "objectID": "Openning.html#fellowship-resources",
+    "href": "Openning.html#fellowship-resources",
+    "title": "Contact – LEMA Lab",
+    "section": "Fellowship Resources",
+    "text": "Fellowship Resources\n\n\nFor Graduate Sudents\n\nGraduate Research Fellowship Program (GRFP), National Science Foundation\nGraduate Research Fellowship Program (GRFP), Department of Energy\nOffice of Science Graduate Student Research (SCGSR) Program, Department of Energy\nNational Defense Science and Engineering Graduate (NDSEG) Fellowship, Department of Defense\nSMART Scholarship Program, Department of Defense, Department of Defense\nNASA Space Technology Graduate Research Opportunities (NSTGRO), National Aeronautics and Space Administration\n\n\n\nFor Underraduate Sudents\n\nResearch Experiences for Undergraduates (REU), National Science Foundation"
   }
 ]

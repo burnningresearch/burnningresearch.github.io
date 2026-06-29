@@ -52,6 +52,25 @@ funding status, and research interests.
 
 :::
 
+## Fellowship Resources
+
+::: {.hero}
+
+### For Graduate Sudents
+- [Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/),  National Science Foundation
+- [Graduate Research Fellowship Program (GRFP)](https://www.krellinst.org/csgf/),  Department of Energy
+- [Office of Science Graduate Student Research (SCGSR) Program](https://science.osti.gov/wdts/scgsr),  Department of Energy
+- [National Defense Science and Engineering Graduate (NDSEG) Fellowship](https://ndseg.sysplus.com/),  Department of Defense
+- [SMART Scholarship Program, Department of Defense](https://ndseg.sysplus.com/), Department of Defense
+- [NASA Space Technology Graduate Research Opportunities (NSTGRO)](https://www.nasa.gov/nasa-space-technology-graduate-research-opportunities-nstgro/), National Aeronautics and Space Administration
+
+
+### For Underraduate Sudents
+
+- [Research Experiences for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu), National Science Foundation
+
+:::
+
 ## Why Join Us
 
 ::: {.box-grid}

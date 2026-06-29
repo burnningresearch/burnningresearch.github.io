@@ -16,7 +16,7 @@ format:
 
 <p style="font-size:1.8rem; font-weight:600; margin-top:-1rem;">
 <span style="color:#c1502e;">E</span>nergy
-<span style="color:#c1502e;">M</span>aterials
+<span style="color:#c1502e;">M</span>aterial
 <span style="color:#c1502e;">C</span>onversion and
 <span style="color:#c1502e;">C</span>ombustion
 </p>
@@ -35,39 +35,52 @@ Welcome to the EMC<sup>2</sup> Lab at UNC Charlotte. We are interested in unders
 
 ::: {.box}
 We welcome PhD students, postdoctoral researchers, and visiting students
-interested in building the next generation of embodied agents, with
-research directions including robot learning, world models, multimodal
-agents, data curation, and recursive self-improvement.
+interested in developping next-generation energy，propulsion, and sustainable material processing technology based on fundemental mechanism, unrevealed through experimetal, theoretical, and computational approches.
 
-[Join Us — 3 PhD Openings, Apply by Dec 15](https://lema-nus.github.io/contact.html#openings){.btn-app}
+[Join Us — 2 PhD Openings, Apply by Dec 15](https://burnningresearch.github.io/Openning.html){.btn-app}
 :::
 
 ## Research Directions
 
-We study how embodied agents can learn from interaction, reason about the
-physical world, and improve autonomously.
+We study thermochemical processes enabling sustainbable enegy converstion, high-performance propulsion, and critical material recycling by devlopping and utilizing advanced experimental and numerical methods.
 
 ::: {.box-grid-3}
 
 ::: {.box}
-### Adaptive Robot Policies
 
-How can robot policies adapt dynamically at inference time to handle new
-tasks, environments, and embodiment variations?
+::: {.text-center}
+### Advanced Optical Dignostics
+:::
+
+::: {.research-figure}
+![](home_files/Optical_dignostics.jpg)
+:::
+
 :::
 
 ::: {.box}
-### Interactive World Models
 
-How can structured world models help agents anticipate spatial, temporal,
-and physical interactions before acting?
+::: {.text-center}
+### Critical Material Recycling
+:::
+
+
+::: {.research-figure}
+![](home_files/Material_recycling.jpg)
+:::
+
 :::
 
 ::: {.box}
-### Proactive Self-Improvement
 
-How can agents verify and learn from their own predictions to improve
-continually with minimal human supervision?
+::: {.text-center}
+### High-performance Propulsion
+:::
+
+::: {.research-figure}
+![](home_files/Propulsion.jpg)
+:::
+
 :::
 
 :::
